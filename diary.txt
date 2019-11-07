@@ -1,0 +1,8 @@
+Version 0.1
+
+basic valuation of course it is not compete and therefore correct.
+this version is to make sure that everything is connected correctly.
+
+VErsion 0.2
+
+Start seperating code in files and make it readable and also make sure that i get all infro for company.
