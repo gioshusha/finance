@@ -1,0 +1,11 @@
+Version 0.1
+
+basic valuation of course it is not compete and therefore correct.
+this version is to make sure that everything is connected correctly.
+
+Version 0.2
+
+in this version we have more indepth analysis for each company as well more clean code doing its job.
+datav2 will be holding all prices with and without tax.
+for stable analysis it is duing remarkable job forecating future income per share over specific amount of years,
+but still need more data for better forecast
